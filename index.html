@@ -11,10 +11,12 @@
   <div id="app">正在连接国内极速节点，请稍候...</div>
   <script>
     window.$docsify = {
-      name: '隆源压滤机知识库',
+      name: '隆源压滤机内部资料库',
       loadSidebar: true,
       subMaxLevel: 2,
-      auto2top: true
+      auto2top: true,
+      // 【最核心的修改】：允许网页执行 .md 文件里的计算脚本
+      executeScript: true
     }
   </script>
   <script src="https://cdn.staticfile.net/docsify/4.13.1/docsify.min.js"></script>
