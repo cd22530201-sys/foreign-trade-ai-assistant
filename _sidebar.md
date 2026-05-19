@@ -1,9 +1,3 @@
-<script>
-  window.$docsify = {
-    name: '隆源压滤机内部资料库',
-    repo: '',
-    loadSidebar: false,  // 先关掉侧边栏
-    subMaxLevel: 2,
-    homepage: 'README.md'
-  };
-</script>
+* [项目简介](README.md)
+* [基础数据](product-A.md)
+* [自动选型计算器](calculator.md)
