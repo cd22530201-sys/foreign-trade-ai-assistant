@@ -1,8 +1,10 @@
 * **首页**
   * [项目简介](README.md)
 
-* **产品资料库**
-  * [压滤机设备 A款规格](product-A.md)
+* **压滤机产品资料库**
+  * [公司压滤机型号意义](press-models.md)
+  * [核心配件与材质分类](press-parts.md)
 
-* **外贸业务工具**
-  * [常用高频英文回复](english-phrases.md)
+* **外贸业务实战工具**
+  * [非专业客户询盘过滤表](client-requirements.md)
+  * [AI 谈判与高情商润色 Prompt](ai-prompts.md)
